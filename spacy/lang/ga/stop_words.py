@@ -8,13 +8,13 @@ caoga ceathair ceathrar chomh chuig chun cois céad cúig cúigear
 
 daichead dar de deich deichniúr den dhá do don dtí dá dár dó
 
-faoi faoin faoina faoinár fara fiche
+faoi faoin faoina faoinár fara fearacht fiche
 
 gach gan go gur
 
 haon hocht
 
-i iad idir in ina ins inár is
+i iad idir ionsar in ina ins inár is
 
 le leis lena lenár
 
@@ -28,7 +28,7 @@ roimh
 
 sa seacht seachtar seachtó seasca seisear siad sibh sinn sna sé sí
 
-tar thar thú triúr trí trína trínár tríocha tú
+tar thar thú timpeall trasna triúr trí trína trínár tríocha tú
 
 um
 
